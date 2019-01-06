@@ -1,5 +1,12 @@
-####################################################################################
-#970 days in total
+##############################################################
+#
+# 500 Days of AAPL data used to predict 50 days in the future
+#
+# Author : Dhruv Oberoi
+# Stock Price Prediction using
+# Linear Regression, Ridge Regression, Lasso, SVR (RBF Kernel),
+# Random Forest and XGBoost
+#
 ####################################################################################
 
 import quandl, math
