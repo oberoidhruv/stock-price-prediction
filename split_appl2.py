@@ -37,7 +37,7 @@ from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import GridSearchCV
 
 
-quandl.ApiConfig.api_key = 'prs7G4x_nnyW7Zszk5cg'
+quandl.ApiConfig.api_key = 'PASTER YOUR API KEY HERE'
 
 ####################################################################################
 
